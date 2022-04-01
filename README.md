@@ -1,4 +1,5 @@
 # CunkyChessAI
-THIS IS A WORK IN PROGRESS
+## THIS IS A WORK IN PROGRESS
+### Refer to designProcess.txt for updates at this stage
 
-AI Chess Bot (Cunky)
+Aim: to implement an AI Chess Bot (Cunky)
