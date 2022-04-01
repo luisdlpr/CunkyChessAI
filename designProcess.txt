@@ -1,0 +1,11 @@
+Possible Engines:
+Preferrably in python:
+- https://github.com/Aryan9301/ChessGame
+  - uses a GUI
+  - not much documentation
+  - no licensing but use is completely personal for experimentation
+- https://github.com/VedantChristian16/Chess-Game
+  - no documentation
+  - text based
+
+Attempted to find others but they had existing bots, want to implement from scratch
