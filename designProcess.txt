@@ -15,3 +15,10 @@ Attempted to find others but they had existing bots, want to implement from scra
 Got Aryan9301/ChessGame running with a bit of fiddling around and imported nicer looking sprites.  The GUI works but operation is very clunky... no rules are implemented and requires some major fixes
 - rules
 - randomly disappearing pieces bug
+
+01.04.22
+Fiddled around more with the GUI.  Implemented a pseudo terminal within the pygame window for consistent commands (no glitchy clicking etc).  user input method pretty much implemented.  Currently planning on using the following packages 
+
+python3 -m pip install -U pygame --user
+python3 -m pip install -U chess --user
+python3 -m pip install -U pygame-textinput
