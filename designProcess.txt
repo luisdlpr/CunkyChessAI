@@ -1,3 +1,4 @@
+01.04.22
 Possible Engines:
 Preferrably in python:
 - https://github.com/Aryan9301/ChessGame
@@ -9,3 +10,8 @@ Preferrably in python:
   - text based
 
 Attempted to find others but they had existing bots, want to implement from scratch
+
+01.04.22
+Got Aryan9301/ChessGame running with a bit of fiddling around and imported nicer looking sprites.  The GUI works but operation is very clunky... no rules are implemented and requires some major fixes
+- rules
+- randomly disappearing pieces bug
