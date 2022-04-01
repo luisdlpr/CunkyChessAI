@@ -87,7 +87,9 @@ def main():
         for e in events:
             if e.type == p.QUIT:
                 running = False
-
+            ## Method to access user input.
+            elif e.type == p.KEYDOWN and e.key == p.K_RETURN:
+                print(f"User pressed enter! Input so far: {textinput.value}")
             # mouse handler
 
             # elif e.type == p.MOUSEBUTTONDOWN:
